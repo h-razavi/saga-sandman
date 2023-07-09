@@ -201,6 +201,11 @@ q{
   content: '-';
 }
 
+.publish_update{
+  text-decoration: underline double;
+  color: darkblue;
+}
+
 @media screen and (max-width:900px) {
   .container{
     max-width: 80%;
